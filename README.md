@@ -4,4 +4,4 @@ I'm adding to this file.
 
 Adding one more line
 
-![picture of sloth] (sloth.jpg)
+![Picture of sloth](sloth.jpg)
